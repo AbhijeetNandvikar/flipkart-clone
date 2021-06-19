@@ -1,3 +1,10 @@
+Create a feature to sort products from price High-to-Low and Low-to-High.
+Create Filters based on:
+Size(S, M, L, XL)
+Brand
+Ideal for (Men, Women, etc)
+Feature to clear all filters.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
